@@ -1,4 +1,4 @@
 My name is khan and
 I am not a terrorist.
 This is edited from Test2/Test1.
-Merge Conflict Testing.
+Merge Conflict Testing but modiified based on test 1 input.
